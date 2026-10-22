@@ -15,3 +15,10 @@
 - Publicação: solicitada pelo utilizador para ewertondevti.github.io. Workflow manual de GitHub Pages.
 
 As verificações de interface são amostrais, não uma auditoria completa de acessibilidade ou uma garantia para todos os navegadores. O deploy real do GitHub Actions requer um repositório do utilizador e ainda não foi executado, conforme pedido.
+## Visual revision — October 2026
+- Added an original animated parametric sculpture, pointer response, staggered heading entrances, scroll reveals, reading progress, project motion and a pause control.
+- Reduced-motion preferences disable decorative animation. Canvas rendering is limited to 30fps and skips hidden/offscreen work.
+- Replaced both downloadable CVs with two-page editorial layouts; all four PDF pages visually inspected.
+- Added seven courses/certifications verified against the LinkedIn profile, preserving original titles and issue dates.
+- Removed active-client and simultaneous-engagement language.
+- Verified production build and TypeScript, language/theme/pause controls, project disclosure and mobile navigation. Checked widths 320, 390 and 768; fixed tablet overflow. Browser console has no errors.
