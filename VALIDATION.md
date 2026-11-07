@@ -22,3 +22,11 @@ As verificações de interface são amostrais, não uma auditoria completa de ac
 - Added seven courses/certifications verified against the LinkedIn profile, preserving original titles and issue dates.
 - Removed active-client and simultaneous-engagement language.
 - Verified production build and TypeScript, language/theme/pause controls, project disclosure and mobile navigation. Checked widths 320, 390 and 768; fixed tablet overflow. Browser console has no errors.
+## Impeccable audit — November 2026
+- `impeccable detect` (v4.8.0) on the rendered site at 1280×800, 768×1024 and 390×844: 84 findings before, 0 after.
+- Functional text raised to an 11px minimum and body copy to at least 13px; calmer tracking on mono labels.
+- Removed numbered section labels, kickers above headings, list/card numbering and the decorative accent halos.
+- Arial and Courier New replaced by self-hosted Schibsted Grotesk and IBM Plex Mono (no remote font requests).
+- `text-wrap: balance` on headings and `pretty` on paragraphs; print styles now neutralise the darker surfaces.
+- Fixed artwork caption icons stretching to fill the illustration.
+- Visually checked dark and light themes at 1440px and mobile at 390px: fonts load, no horizontal overflow, no console errors.

@@ -1,5 +1,8 @@
 import type { Metadata } from 'next';
 import { profile } from '@/lib/profile';
+import '@fontsource-variable/schibsted-grotesk/wght.css';
+import '@fontsource/ibm-plex-mono/latin-400.css';
+import '@fontsource/ibm-plex-mono/latin-500.css';
 import './globals.css';
 
 const title = 'Ewerton Souza — Senior Frontend Developer & Tech Lead';
