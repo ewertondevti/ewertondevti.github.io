@@ -64,7 +64,7 @@ Fontes: CV profissional, diploma e histórico académico fornecidos, complementa
 
 - Experiência desde janeiro de 2019; a apresentação usa 7+ anos, confirmados em outubro de 2026.
 - IFSP, Campus Piracicaba: Tecnólogo em Análise e Desenvolvimento de Sistemas, conclusão em **24 de agosto de 2020**. A conclusão substitui a data incorreta do CV; não se confunde com colação de grau ou emissão do diploma.
-- Atividade atual através da Ewerton Souza Unipessoal Lda, constituída em janeiro de 2025 conforme certidão fornecida. Aquasis e Watermelon são clientes ativos; Cofidis Portugal é o cliente final da Watermelon desde **1 de setembro de 2026**.
+- Atividade atual através da Ewerton Souza Unipessoal Lda, constituída em janeiro de 2025 conforme certidão fornecida. Aquasis e Wattek Solutions (antiga Watermelon, rebranding em novembro de 2026) são clientes ativos; Cofidis Portugal é o cliente final da Wattek Solutions desde **1 de setembro de 2026**.
 - O período histórico da Aquasis em 2024 não significa fim da relação: o vínculo atual é apresentado separadamente.
 - Babel Group é experiência anterior, conforme a correção do utilizador. Período: **janeiro de 2025–abril de 2026**, com saída explicitamente corrigida pelo utilizador.
 - Não se afirma que a reestruturação da Aquasis ocorreu apenas no período histórico de 2024; a relação de consultoria atual é contínua.
